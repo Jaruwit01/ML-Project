@@ -1,5 +1,0 @@
-names:
-- bus panel
-nc: 1
-train: /Users/macjaru/Documents/GitHub/ML-Project/data/train/images
-val: /Users/macjaru/Documents/GitHub/ML-Project/data/val/images
